@@ -9,7 +9,7 @@ Welcome Aboard!
 
 
 # How to run
-run the jar file with " java - jar LeisureCruises"
+run the jar file with "java - jar LeisureCruises"
 
 or manually build by running driver.java
 
