@@ -6,8 +6,14 @@ We truly understand that there are high demands of all of our guests, and we str
 Welcome Aboard!
 
 # Screenshots
-
+Main Menu
 ![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/MainMenu.png)
+
+Passenger List
+![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/Passenger%20List.png)
+
+Cruise Ships
+![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/Cruise%20Ships.png)
 
 
 # How to run
