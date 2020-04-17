@@ -11,9 +11,11 @@ Main Menu
 ![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/MainMenu.png)
 
 Passenger List
+
 ![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/Passenger%20List.png)
 
 Cruise Ships
+
 ![alt text](https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/Cruise%20Ships.png)
 
 
