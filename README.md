@@ -9,9 +9,9 @@ Welcome Aboard!
 
 
 # How to run
-run the jar file with "java - jar LeisureCruises"
+Just open LeisureCruises.exe 
+or run the jar file with "java - jar LeisureCruises"
 
-or manually build by running driver.java
 
 
 # We hope to see you soon!
