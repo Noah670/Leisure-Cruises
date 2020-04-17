@@ -7,6 +7,8 @@ Welcome Aboard!
 
 # Screenshots
 
+![alt text] (https://github.com/Noah670/Luxury-Cruise-Services/blob/master/screenshots/MainMenu.png)
+
 
 # How to run
 Just open LeisureCruises.exe 
